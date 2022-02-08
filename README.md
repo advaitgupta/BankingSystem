@@ -16,13 +16,16 @@ Would try to add more features later.
 Welcome Page:
 
 
-<img width="681" alt="Screenshot 2021-08-16 at 10 52 45 AM" src="https://user-images.githubusercontent.com/77399471/129515687-8c63c4c3-5aa5-46dc-9d9f-0652f69fd256.png">
+<img width="677" alt="Screenshot 2022-02-08 at 1 33 26 PM" src="https://user-images.githubusercontent.com/77399471/152943940-d3149c20-03f9-4880-802e-8b65e629f0dd.png">
+
 
 
 After Login:
 
 
-<img width="702" alt="Screenshot 2021-08-16 at 10 53 58 AM" src="https://user-images.githubusercontent.com/77399471/129515701-759c12db-8fb5-4dcd-adaa-44d11f827ff0.png">
+
+<img width="695" alt="Screenshot 2022-02-08 at 1 33 57 PM" src="https://user-images.githubusercontent.com/77399471/152944009-96b42441-3033-4f2e-bdff-4641cd6ed00e.png">
+
 
 
 Withdrawal Page:
@@ -40,11 +43,13 @@ Deposit Page:
 Balance Enquiry:
 
 
-<img width="702" alt="Screenshot 2021-08-16 at 10 55 12 AM" src="https://user-images.githubusercontent.com/77399471/129515730-03efd418-2517-4f8f-bef1-9ee0c6ea89ed.png">
+<img width="693" alt="Screenshot 2022-02-08 at 1 34 30 PM" src="https://user-images.githubusercontent.com/77399471/152944085-ed6f431e-b524-43da-894a-2280e6a0ac57.png">
+
 
 
 Last Transaction:
 
 
-<img width="700" alt="Screenshot 2021-08-16 at 10 55 04 AM" src="https://user-images.githubusercontent.com/77399471/129515748-f8f4e874-0a14-43b1-9551-0ba8b8464093.png">
+<img width="699" alt="Screenshot 2022-02-08 at 1 34 40 PM" src="https://user-images.githubusercontent.com/77399471/152944123-6a3233af-90c5-4fa7-b503-366a161f4af0.png">
+
 
